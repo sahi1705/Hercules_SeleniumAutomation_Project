@@ -61,7 +61,7 @@ HerculesWork
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/HerculesWork.git
+https://github.com/sahi1705/Hercules_SeleniumAutomation_Project.git
 ```
 ---
 
