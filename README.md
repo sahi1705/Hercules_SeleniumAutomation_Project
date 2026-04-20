@@ -1,7 +1,7 @@
 # 🚀 Selenium Automation Framework - Hercules Work
 
 This is a **Selenium Web Automation Framework** built using **Java, TestNG, Maven, and Page Object Model (POM)**.  
-The framework is designed for automating end-to-end test scenarios for the Hercules web application.
+The framework is designed for automating end-to-end test scenarios for the Hercules web application : https://hercules.works .
 
 ---
 
